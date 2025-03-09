@@ -1,10 +1,8 @@
-# nitflex-2025
+# Práctica Calidad Software - Grupo X
 
-Este repositorio es el punto de partida de las prácticas de la asignatura de Calidad de Software del Grado en Ingeniería del Software de la Universidad Rey Juan Carlos.
-
-Se trata de una aplicación web que permite:
-- Dar de alta películas, recuperarlas, editarlas y borrarlas
-- Añadir comentarios a películas y borrarlas
-- Añadir películas a una lista de favoritos
-
-La aplicación se gestiona utilizando un único usuario por simplicidad (sin login ni signup).
+# Miembros del grupo
+| Nombre y apellidos | Email urjc | Nickname GitHub |
+|:-----------------|:-----:|-------:|
+| **Nombre y apellidos alumno 1**    | correo.alumno1@alumnos.urjc.es | nicknameGitHubAlumno1 |
+| **Nombre y apellidos alumno 2**    | correo.alumno2@alumnos.urjc.es | nicknameGitHubAlumno2 |
+| **Nombre y apellidos alumno 3**    | correo.alumno3@alumnos.urjc.es | nicknameGitHubAlumno3 |
